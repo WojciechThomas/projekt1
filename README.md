@@ -12,4 +12,5 @@ print("a")
 jeszcze coś
 kolejna linia
 trzecia linia
-lokalna czwarta linia
+lokalna i githubowa czwarta linia
+
